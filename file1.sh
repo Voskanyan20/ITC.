@@ -1,6 +1,8 @@
 #!/usr/bin/bash
 
 Hello World
+<<<<<<< HEAD
+<<<<<<< HEAD
 
 
 function second {
@@ -12,3 +14,7 @@ function third {
 	echo new Branch
 }
 third
+=======
+>>>>>>> parent of e18e451 (Second Commit)
+=======
+>>>>>>> parent of e18e451 (Second Commit)
